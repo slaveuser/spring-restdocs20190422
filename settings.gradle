@@ -1,0 +1,8 @@
+rootProject.name = 'spring-restdocs'
+
+include 'docs'
+include 'spring-restdocs-asciidoctor'
+include 'spring-restdocs-core'
+include 'spring-restdocs-mockmvc'
+include 'spring-restdocs-restassured'
+include 'spring-restdocs-webtestclient'
